@@ -1,0 +1,1 @@
+print("hypercore INSERT")
